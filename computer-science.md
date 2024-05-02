@@ -1,4 +1,4 @@
-# Open Knowledge
+# Computer Science
 
 ## Massive Online Courses
 

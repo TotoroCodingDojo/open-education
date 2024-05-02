@@ -6,6 +6,7 @@
 
 ## Sections
 
+- [Books](books.md)
 - [Computer Science](computer-science.md)
 
 
